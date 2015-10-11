@@ -1,7 +1,10 @@
 function banana
 	do banana stuff
+    if banana is divided by 0, turn the minions purple    
 
-function pear
+test if banana is a fruit
+
+
 
 function grape
     grow spheres on a tree
